@@ -1,4 +1,4 @@
-**Fashion MNIST Image Classification using Deep Learning**
+### **Fashion MNIST Image Classification using Deep Learning**
 
 This repository contains code for training and evaluating a deep learning model to classify fashion items from the Fashion MNIST dataset. The implemented model achieves a validation accuracy of 96% and a test accuracy of 96%.
 
